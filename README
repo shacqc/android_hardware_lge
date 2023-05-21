@@ -1,3 +1,5 @@
+Hardware tree for LG devices that is merged with the LineageOS LGE hardware tree. Tree was modified in order support for the LG V60 ThinQ.
+
 TODO
 
 Fingerprint Scanner (UDFPS)
